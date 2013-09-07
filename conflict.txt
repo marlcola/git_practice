@@ -1,3 +1,4 @@
 I test the conflict in this file.
 
+I edited from Windows.
 
