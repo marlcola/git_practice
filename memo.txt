@@ -1,3 +1,7 @@
 Gitの練習用リポジトリです。
 
 GitHubを、共有リポジトリとして、利用します。
+
+Can't read this file on my environment.
+
+
