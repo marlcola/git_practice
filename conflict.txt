@@ -2,3 +2,5 @@ I test the conflict in this file.
 
 I edited from Windows.
 
+It is editing a second time from Windows.
+
