@@ -1,1 +1,6 @@
 ﻿I will practice using the branch.
+
+#Working from CentOS
+Created the 'develop' branch from the 'remote/origin/develop' branch.
+Checkout the 'develop' branch.
+
